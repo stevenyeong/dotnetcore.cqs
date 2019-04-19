@@ -1,0 +1,14 @@
+D:\source\dotnet core\grape\grape\bin\Debug\netcoreapp2.1\grape.deps.json
+D:\source\dotnet core\grape\grape\bin\Debug\netcoreapp2.1\grape.runtimeconfig.json
+D:\source\dotnet core\grape\grape\bin\Debug\netcoreapp2.1\grape.runtimeconfig.dev.json
+D:\source\dotnet core\grape\grape\bin\Debug\netcoreapp2.1\grape.dll
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.csproj.CoreCompileInputs.cache
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.RazorAssemblyInfo.cache
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.RazorAssemblyInfo.cs
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.AssemblyInfoInputs.cache
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.AssemblyInfo.cs
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.RazorTargetAssemblyInfo.cache
+D:\source\dotnet core\grape\grape\bin\Debug\netcoreapp2.1\grape.pdb
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.dll
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.pdb
+D:\source\dotnet core\grape\grape\obj\Debug\netcoreapp2.1\grape.csprojAssemblyReference.cache
